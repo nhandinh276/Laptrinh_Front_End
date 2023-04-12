@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif; 
+
+}
+.cha1{
+    display: flex;
+    justify-content: space-between;
+}
+.cha2{
+    display: flex;
+    margin-right: 300px;
+    }
+.cha2 .con{
+    padding: 10px;
+}
+.cha3 img{
+    width: 100%;
+}
+.cha3{
+    height: 700px;
+    overflow: hidden;
+}
+.cha4{
+   display: flex;
+   margin-left: 200px;
+   margin-right: 200px;
+   margin-top: 10px;
+}
+.cha5{
+    display: flex;
+    margin-left: 200px;
+   margin-right: 200px;
+}
+.cha4 .con4{
+    flex: 1;
+    position: relative;
+}
+.con4 img{
+    width: 100%;
+}
+.cha5 .con5{
+    flex: 1;
+    position: relative;
+    color: white;
+}
+.con5 img{
+    width: 100%;
+}
+.vecongty{
+    margin-left: 200px;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.con45{
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    bottom: 50px;
+    font-size: 20px;
+}
+.cha6{
+    display: flex;
+    background-color: hsla(57, 100%, 51%, 0.922);
+    margin-top: 50px;
+}
+.con61{
+    margin-left: 200px;
+}
+.con63{
+    margin-right: 200px;
+}
+.con61, .con62, .con63{
+    flex: 1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}

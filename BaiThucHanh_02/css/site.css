@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div {
+    font: 18px "Arial";
+}
+.img{
+    background-image: url('/BaiThucHanh_02/images/head-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+    margin-top: -77px;
+}
+.cha1 img{
+    width: 200px;
+    height: 140px;
+    margin-left: 10px;
+    
+}
+.cha1{
+    display: flex;
+    justify-content: space-between;
+    margin: 4% 25% 1%;
+}
+.cha1 .hotline{
+
+    color: white;
+    background-color: #2A6E01;
+    height: 70%;
+    width: 40%;
+    text-align: center;
+    padding: 15px 3px 15px 3px;
+    margin-top: 50px;
+    font-size: 1.8rem;
+
+
+}
+.border1{
+    border: 1px white solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.border2{
+    margin-left: 25%;
+}
+.dangky{
+    border: 3px #CED086 solid;
+    background-color: rgb(103, 139, 55);
+    width: 260px ;
+    height: 400px;
+    padding: 20px 20px;
+}
+.dangky p{
+    color: white;
+}
+.dangky .con1dangky{
+    font-style: italic;
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+}
+.cha2-1{
+    display: flex;
+    flex-direction: column;
+}
+.con1cha2{
+    border: none;
+    background-color: rgb(103, 139, 55);
+    border-top: 2px #506e29 solid;
+    border-bottom: 2px #DCE085 solid;
+    color: white;
+    flex: 1;
+    
+    
+}
+
+.dangky .con2dangky{
+    font-size: 1.6rem;
+    text-align: center;
+    
+}
+.cha2 .con2cha2{
+    border: none;
+    background-color: #C5D301;
+    color: rgb(255, 255, 255);
+    padding: 20px 10px 20px 10px;
+    margin-top: 20px;
+}
+.con1cha3{
+    display: flex;
+    position: relative;
+    padding-top: 56px;
+}
+.con1cha3 img{
+    height: 275px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 2px #2A6E01 dashed;
+}
+
+.con1cha3 .thongtin1{
+    color: #2D8C15;
+    margin-bottom: 20px;
+    margin-left: 26px;
+    font-size: smaller;
+
+}
+.con1cha3 .thongtin2{
+    margin-right: 44%;
+    text-align: justify;
+}
+
+.cha4{
+    padding-top: 40px;
+    margin-right: 10%;
+}
+.cha4 .con1cha4{
+    display: flex;
+    position: relative;
+    margin-right: 16%;
+}
+.con1cha4 .thongtin3{
+    color: #2D8C15;
+    font-size: smaller;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+.con1cha4 .thongtin4{
+    text-align: justify;
+    margin-right: 5%;
+}
+.cha4 .con1cha4 img{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    border: 2px #2A6E01 dashed;
+}
+.cha{
+    position: relative;
+}
+.cha5 .con1cha5{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 20%;
+}
+.thongtin45{
+    margin-right: 3%;
+}
+.cha5{
+    background-color:#81AF53 ;
+    width: 100%;
+    margin-top: 1%;
+    padding: 20px 0 20px 0;
+}
+.cha5 img{
+    height: 190px;
+}
+.thongtin56{
+    color: white;
+}
+.thongtin5{
+    border: 2px #fefefc solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 20px;
+    
+}
+.thongtin56 .thongtin6{
+    text-align: justify;
+    margin-right: 10px ;
+}
+.cha6{
+    background-color: #CED086;
+    height: 35%;
+    text-align: center;
+}
+.tuvan{
+    color: #2A6E01;
+    padding: 25px;
+}
+.cha6 .dk2{
+    display: flex;
+    justify-content: center;
+}
+.dk2 .dk2-1{
+    display: flex;
+}
+.chinhsua{
+    padding: 10px;
+    margin: 10px;
+}
+.dk2-1 .con1-dk2{
+    margin: 10px;
+    width: 360px;
+    padding: 5px 0 5px 0;
+}
+.nutdk{
+    border: none;
+    background-color: #2A6E01;
+    color: rgb(255, 255, 255);
+}

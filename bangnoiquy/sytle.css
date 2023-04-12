@@ -1,0 +1,26 @@
+
+.noidung{
+    color: blue;
+}
+.tieude{
+    color: #000066;
+}
+.bang{
+    border: 5px solid #3399FF;
+    background-color: whitesmoke;
+    padding: 5px;
+}
+.bang-2{
+    border:5px solid #1A237E;
+    padding: 5px;
+}
+.h1{
+    text-align: center;
+}
+.trich{
+    text-align: center;
+    font-style: italic;
+}
+.khoangtrong{
+    margin: 0.1%;
+}
