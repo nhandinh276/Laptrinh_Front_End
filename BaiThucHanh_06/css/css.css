@@ -3,7 +3,7 @@
     margin: 0;
 }
 .img{
-  background-image: url('/Demo3/images/bg-top.jpg');
+  background-image: url('/images/bg-top.jpg');
   height: 750px;
   background-size: 100%;
   width: 100%;
@@ -171,7 +171,7 @@
 }
 .img2{
   background-size: 100%;
-  background-image: url('/Demo3/images/bg-bottom.jpg');
+  background-image: url('/images/bg-bottom.jpg');
   width: 100%;
   height: 190px;
 }
@@ -181,4 +181,16 @@
 .list img{
   border:5px #112141 solid;
   padding-top: 2px;
+}
+.ketthuc{
+  display: flex;
+  justify-content: center;
+  padding-top: 80px;
+}
+.ndkt{
+  text-align: center;
+}
+.longden img{
+  position: absolute;
+  margin-left: -5%;
 }
